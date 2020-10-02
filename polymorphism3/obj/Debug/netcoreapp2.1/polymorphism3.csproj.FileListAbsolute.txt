@@ -1,0 +1,11 @@
+C:\Users\isak.valfridsson\source\repos\polymorphism3\bin\Debug\netcoreapp2.1\polymorphism3.deps.json
+C:\Users\isak.valfridsson\source\repos\polymorphism3\bin\Debug\netcoreapp2.1\polymorphism3.runtimeconfig.json
+C:\Users\isak.valfridsson\source\repos\polymorphism3\bin\Debug\netcoreapp2.1\polymorphism3.runtimeconfig.dev.json
+C:\Users\isak.valfridsson\source\repos\polymorphism3\bin\Debug\netcoreapp2.1\polymorphism3.dll
+C:\Users\isak.valfridsson\source\repos\polymorphism3\bin\Debug\netcoreapp2.1\polymorphism3.pdb
+C:\Users\isak.valfridsson\source\repos\polymorphism3\obj\Debug\netcoreapp2.1\polymorphism3.csprojAssemblyReference.cache
+C:\Users\isak.valfridsson\source\repos\polymorphism3\obj\Debug\netcoreapp2.1\polymorphism3.csproj.CoreCompileInputs.cache
+C:\Users\isak.valfridsson\source\repos\polymorphism3\obj\Debug\netcoreapp2.1\polymorphism3.AssemblyInfoInputs.cache
+C:\Users\isak.valfridsson\source\repos\polymorphism3\obj\Debug\netcoreapp2.1\polymorphism3.AssemblyInfo.cs
+C:\Users\isak.valfridsson\source\repos\polymorphism3\obj\Debug\netcoreapp2.1\polymorphism3.dll
+C:\Users\isak.valfridsson\source\repos\polymorphism3\obj\Debug\netcoreapp2.1\polymorphism3.pdb
